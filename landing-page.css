@@ -1,0 +1,13 @@
+.box2 {padding-top: 50px;} 
+.log-in {border-radius:35%;}
+.one {padding-top: 50px;padding-left: 50px;font-size: 40px;}
+.tow {padding-top: 50px;}
+.ab {border-radius:50px;}
+.abc{background-color: #fff;}
+.box1{height: 90vh;background-image:url("images/twitter img.jpg")}
+.list{list-style: none;padding-top: 250px;padding-left:100px;font-size:20px;color: #fff;}
+.dawon{width:100%;background-color:#fff; height: 50px;}
+.list2 li{display:inline-block;position: relative;
+    padding-left: 5px;font-size: 13px;padding-top: 15px;}
+.list2 li a{color:#d2d2d2;}
+.last-items{padding-top:0px;padding-left:40%;font-size: 13px;color:#d2d2d2}
